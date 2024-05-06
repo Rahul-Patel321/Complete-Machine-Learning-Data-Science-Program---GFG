@@ -1,2 +1,2 @@
-# Complete-Machine-Learning-Data-Science-Program---GFG
-This repository is having all the codes used in Machine Learning with Python course by GFG.
+# Complete-Machine-Learning-Data-Science-Program--GFG
+This repository houses hands-on projects completed during the "Complete Machine Learning and Data Science Program" by GeeksforGeeks (GFG). This collection showcases practical exercises and real-world applications in machine learning and data science. These projects demonstrate proficiency in data analysis, predictive modeling, and statistical inference. They cover data preprocessing, feature engineering, model selection, evaluation, and deployment.
